@@ -8,8 +8,6 @@ Output time (mm:ss) to seven segment display and Audio to Buzzer.
 Input: Push button to start.  10K Pot used for time select.
 * Author: Gavin Lyons
 
-
-
 Software Used
 ------------------
 Arduino 1.8.5
