@@ -32,9 +32,11 @@ You will need following parts.
 >
 > ATmega328p micro-controller as per schematic or alternatively a Arduino uno/nano module.
 >
-> Resistors: 20 ohms , 220 ohms, 660 ohms, 10K
+> Resistors: 20 ohms , 220 ohms, 660 ohms, 10K  , 500ohms X 7, 1K X 4
 >
-> 4 digit seven segment module  (SMA420564)
+> Transistors 4 X 2N2222 NPN
+>
+> One 4 digit seven segment module  (SMA420564)
 >
 > one 50 k potentiometer 
 >
