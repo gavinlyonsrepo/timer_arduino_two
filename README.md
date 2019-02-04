@@ -7,24 +7,25 @@ Overview
 Output time (mm:ss) to seven segment display and Audio to Buzzer.
 Input: Push button to start.  Potentiometer  used for time select.
 * Author: Gavin Lyons
+* URL: https://github.com/gavinlyonsrepo/timer_arduino_two
 
 
-libraries 
+libraries used
 --------------------
 
-None
+ None 
 
 
 Software Used
 ------------------
-Arduino 1.8.5
+Arduino IDE 1.8.5
 
 Eagle 9.3.0
 
 
 Parts List
 ------------------------------
-The schematic drawn in eagle is in documents section. 
+The schematic drawn in Eagle is in documents section. 
 
 You will need following parts.
 
@@ -59,7 +60,7 @@ Time remaining is displayed on seven segment display. When finished the buzzer i
 LED Array Pin Layout
 
 | Pin Uno | Pin Atmega  | 7 Segment pin  |   
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 |  D2 |  PD2 | a  |  
 |  D3 |  PD3 | b  |   
 |  D4  | PD4  | c  |    
@@ -88,7 +89,7 @@ Schematic
 
 Copyright
 ---------
-Copyright (C) 2018 Gavin Lyons 
+Copyright (C) 2019 Gavin Lyons 
 see LICENSE.md in documentation section 
 for more details
 
